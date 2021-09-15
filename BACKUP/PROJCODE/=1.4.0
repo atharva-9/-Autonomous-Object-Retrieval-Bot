@@ -1,0 +1,4 @@
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting gluoncv
+  Using cached https://files.pythonhosted.org/packages/57/c1/21cb1dbc3541109d21237366baab48bc499dae41c6867ac2e41772ae0917/gluoncv-0.10.1.post0.tar.gz
+Collecting mxnet-mkl

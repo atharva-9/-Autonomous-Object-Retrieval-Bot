@@ -1,0 +1,23 @@
+Advantages of Tensorflow:
+User Friendly. Easy to learn if you are familiar with Python.
+Tensorboard for monitoring and visualization. It is a great tool if you want to see your deep learning models in action.
+Community support. Experts engineers from Google and other companies improve TensorFlow almost on a daily basis.
+You can use TensorFlow Lite to run TensorFlow models on mobile devices.
+Tensorflow.js lets you to run real-time deep learning models in the browser using JavaScript.
+
+Limitations of Tensorflow:
+TensorFlow is a bit slow compared to frameworks like MxNet and CNTK.
+Debugging can be challenging.
+No support for OpenCL.
+
+Advantages of Apache MXNet:
+Efficient, scalable, and fast.
+Supported by all major platforms.
+Provides GPU support, along with multi-GPU mode.
+Support for programming languages like Scala, R, Python, C++, and JavaScript.
+Easy model serving and high-performance API.
+
+Disadvantages of Apache MXNet:
+Compared to TensorFlow, MXNet has a smaller open source community.
+Improvements, bug fixes, and other features take longer due to a lack of major community support.
+Despite being widely used by many organizations in the tech industry, MxNet is not as popular as Tensorflow.
